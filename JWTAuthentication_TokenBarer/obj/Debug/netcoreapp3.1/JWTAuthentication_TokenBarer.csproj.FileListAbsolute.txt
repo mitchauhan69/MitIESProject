@@ -1,0 +1,58 @@
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.exe
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.deps.json
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.runtimeconfig.json
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.runtimeconfig.dev.json
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.dll
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.pdb
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.AssemblyInfoInputs.cache
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.AssemblyInfo.cs
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.csproj.CoreCompileInputs.cache
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\staticwebassets\JWTAuthentication_TokenBarer.StaticWebAssets.Manifest.cache
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\staticwebassets\JWTAuthentication_TokenBarer.StaticWebAssets.xml
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\scopedcss\bundle\JWTAuthentication_TokenBarer.styles.css
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.RazorTargetAssemblyInfo.cache
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.dll
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.pdb
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.genruntimeconfig.cache
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.csprojAssemblyReference.cache
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mitch\OneDrive - Georgian College\Desktop\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.csproj.CopyComplete
+C:\MitFinalProject\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.csprojAssemblyReference.cache
+C:\MitFinalProject\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.AssemblyInfoInputs.cache
+C:\MitFinalProject\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.AssemblyInfo.cs
+C:\MitFinalProject\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.csproj.CoreCompileInputs.cache
+C:\MitFinalProject\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.MvcApplicationPartsAssemblyInfo.cache
+C:\MitFinalProject\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.dll
+C:\MitFinalProject\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.pdb
+C:\MitFinalProject\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\MitFinalProject\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\MitFinalProject\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.exe
+C:\MitFinalProject\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.deps.json
+C:\MitFinalProject\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.runtimeconfig.json
+C:\MitFinalProject\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.runtimeconfig.dev.json
+C:\MitFinalProject\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.dll
+C:\MitFinalProject\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.pdb
+C:\MitFinalProject\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\MitFinalProject\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MitFinalProject\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\MitFinalProject\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\MitFinalProject\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\MitFinalProject\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\MitFinalProject\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\MitFinalProject\JWTAuthentication_TokenBarer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\MitFinalProject\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\staticwebassets\JWTAuthentication_TokenBarer.StaticWebAssets.Manifest.cache
+C:\MitFinalProject\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\staticwebassets\JWTAuthentication_TokenBarer.StaticWebAssets.xml
+C:\MitFinalProject\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\scopedcss\bundle\JWTAuthentication_TokenBarer.styles.css
+C:\MitFinalProject\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.RazorTargetAssemblyInfo.cache
+C:\MitFinalProject\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.csproj.CopyComplete
+C:\MitFinalProject\JWTAuthentication_TokenBarer\obj\Debug\netcoreapp3.1\JWTAuthentication_TokenBarer.genruntimeconfig.cache
